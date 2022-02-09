@@ -1,5 +1,5 @@
 ### Thaynan Freitas - [Data Analyst and Business Intelligence] 🖖🏼
-## I am a Business Administrator turned Data Analyst, passionate about technology and Data Science. Currently, Im working hard to become a Data Scientist! 
+## I am a Business Administrator turned Data Analyst, passionate about technology and Data Science. Currently, I am working hard to become a Data Scientist! 
 
 - 💻 I’m a Data Analyst
 - 💻 I’m currently working on my skills to become a Data Scientist!
