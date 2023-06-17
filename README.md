@@ -10,7 +10,8 @@
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" />](https://www.linkedin.com/in/thaynanff/)
-[<img align="left"  width="22px" src="https://c8.alamy.com/comp/2CAHY32/vector-emblem-of-stackoverflow-a-popular-question-and-answer-site-about-programming-2CAHY32.jpg" />](https://pt.stackoverflow.com/users/275980/thaynan-freitas?tab=profile)
+[<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" />](https://pt.stackoverflow.com/users/275980/thaynan-freitas?tab=profile)
+
 
 <br />
 
@@ -24,7 +25,9 @@
 
 <img align="left" alt="Power BI" width="26px" src="https://i.pinimg.com/originals/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
 
-<img align="left" alt="Power BI" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOBB7hjk0pf67XVpFdEitIeRgVZ8mfxlQwdqybbqIJd3qqgcuZo-Ye39I7VpH9QArfo&usqp=CAU" />
+<img align="left" alt="Excel" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOBB7hjk0pf67XVpFdEitIeRgVZ8mfxlQwdqybbqIJd3qqgcuZo-Ye39I7VpH9QArfo&usqp=CAU" />
+
+<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" />
 
 <br />
 
