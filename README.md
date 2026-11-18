@@ -1,36 +1,30 @@
-### Thaynan Freitas - [Data Analyst and Business Intelligence] 🖖🏼
-## I am a Data Analyst, passionate about technology and Data Science. Currently, I am working hard to become a Data Scientist! 
+# Thaynan Freitas
 
-- 💻 I’m a Data Analyst
-- 💻 I’m currently working on my skills to become a Data Scientist!
-- 🌱 I’m currently learning Tableau
-- 👯 I’m looking to collaborate with other Data Scientists and developers 
-- 😄 Pronouns: He/Him
+**Data Analyst in Sydney** | SQL, Snowflake, Python, Tableau | ETL, reporting automation and data quality
 
-### Connect with me:
+I turn ERP and CRM data into reports and dashboards that finance, operations and sales teams use. Much of my work is finding out why numbers don't match between systems, then automating the fix.
 
-[<img align="left"  width="22px" src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" />](https://www.linkedin.com/in/thaynanff/)
-[<img align="left"  width="22px" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" />](https://pt.stackoverflow.com/users/275980/thaynan-freitas?tab=profile)
+- Automated 10+ ETL pipelines across Salesforce, Dynamics and Tableau, including a Python pipeline that saved 130+ hours of manual work
+- Built 10+ Tableau workbooks with 30+ dashboards on ERP and CRM data
+- Building a personal equity research platform: Python scraper, SQL Server warehouse, data quality checks and MCP servers that connect it to Claude (private, in progress)
 
+### Featured work
 
-<br />
+| Project | What it shows |
+| --- | --- |
+| [Split Addresses](https://github.com/thaynanff/thaynanff.github.io/blob/main/Data%20Science%20and%20Analytics/10.%20Split%20Addresses/Split%20Address%20Script.ipynb) | Python and fuzzy matching to standardise free-text customer addresses into structured fields |
+| [Salesforce API Extraction](https://github.com/thaynanff/thaynanff.github.io/blob/main/Data%20Science%20and%20Analytics/09.%20Salesforce%20API%20Extraction/Salesforce%20-%20Incremental%20Inserts%20and%20Updates%20-%20Calls.ipynb) | Incremental inserts, updates and deletes from the Salesforce API into SQL Server, feeding Tableau |
+| [Fleet Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhmYzFmNzEtNWM3Zi00MThjLTg5MDQtZTA1MTZjOTczOTY3IiwidCI6IjcyNmE2MjA3LTUwZjYtNDlkNS1iMGQ0LTFhNGYwNmRiYjM4OSJ9) | Power BI dashboard tracking fuel, maintenance and cost KPIs for a vehicle fleet (anonymised) |
+| [Stock Data Scraper](https://github.com/thaynanff/thaynanff.github.io/blob/main/Data%20Science%20and%20Analytics/11.%20Stock%20Analyser/Stock%20Data%20Scrapper.ipynb) | Multi-year financial data extraction and scoring for ASX-listed companies |
 
-### Languages and Tools:
+More projects in my portfolio: [thaynanff.github.io](https://thaynanff.github.io)
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+### Tools
 
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+SQL (Snowflake, SQL Server, IBM Db2) | Python | Tableau | Power BI | Excel and Power Query | VBA
 
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+### Contact
 
-<img align="left" alt="Power BI" width="26px" src="https://i.pinimg.com/originals/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
+[LinkedIn](https://www.linkedin.com/in/thaynanffreitas/) | [Portfolio](https://thaynanff.github.io)
 
-<img align="left" alt="Excel" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOBB7hjk0pf67XVpFdEitIeRgVZ8mfxlQwdqybbqIJd3qqgcuZo-Ye39I7VpH9QArfo&usqp=CAU" />
-
-<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" />
-
-<br />
-
----
-
-<img align="left" alt="Thaynan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thaynanff&show_icons=true&hide_border=true" />
+Pronouns: he/him
